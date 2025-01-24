@@ -1,1 +1,1 @@
-# monitor
+# monitor de recursos del sistema
